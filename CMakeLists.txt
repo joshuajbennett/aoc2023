@@ -6,4 +6,4 @@ endif()
 
 project(aoc2023 C)
 
-add_subdirectory(day1)
+add_subdirectory(day2)
