@@ -8,4 +8,6 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 project(aoc2023 C)
 
+add_subdirectory(day1)
 add_subdirectory(day2)
+add_subdirectory(day3)
