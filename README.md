@@ -1,5 +1,5 @@
 # Advent Of Code 2023
-Santa's getting a healthy dose of MISRA C compliance this year.
+Santa's going to need lots of extra space for all those memory leaks this year. 
 
 ## How to Build
 
